@@ -1,0 +1,11 @@
+﻿  ConsoleApplication7.cpp
+c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+  c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): note: this argument is used by a conversion specifier
+c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(12): note: this argument is used as a buffer size
+c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\jvuon\documents\visual studio 2015\projects\consoleapplication7\consoleapplication7\consoleapplication7.cpp(41): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
